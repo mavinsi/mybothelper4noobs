@@ -59,6 +59,6 @@ são **extremamente apreciadas**
 
 <p align="center">
   <a href="https://github.com/he4rt/4noobs" target="_blank">
-    <img src="../.github/footer_4noobs.svg" width="380">
+    <img src="https://github.com/he4rt/4noobs/raw/master/.github/footer_4noobs.svg" width="380">
   </a>
 </p>
