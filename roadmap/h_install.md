@@ -3,7 +3,7 @@
 Para seu bot começar a rodar é necessario configurar algumas coisinhas antes então siga o tutorial abaixo:
 
 
-1. Primeiramente clone o repositorio ``git clone https://github.com/mavinsi/mybothelper4noobs``
+1. Primeiramente clone o repositorio ``git clone https://github.com/mavinsi/mybothelper``
 2. instale as depêndencias necessarias ``npm install``
 
 
