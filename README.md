@@ -15,7 +15,9 @@
   
   <p align="center">
     <br />
-    <a href="#ROADMAP"><strong>Explore a documentação »</strong></a>
+    <a href="#ROADMAP"><strong>Explore a documentação 4noobs»</strong></a>
+
+    <a href="https://github.com/mavinsi/mybothelper"><strong>Explore a documentação original »</strong></a>
     <br />
     <br />
     <a href="https://github.com/mavinsi/mybothelper4noobs/issues/new">Report Bug</a>
