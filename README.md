@@ -8,20 +8,20 @@
 
 <!-- Title -->
 
-<p align="center">
+
   <h2 align="center">MyBotHelper4Noobs</h2>
 
   <h1 align="center"><img src="./imgs/icon.png" alt="Imagem da linguagem" width="120"></h1>
   
-  <p align="center">
-    <br />
-    <a align="center" href="#ROADMAP"><strong>Explore a documentação 4noobs»</strong> </a>
-
-   <a align="center" href="https://github.com/mavinsi/mybothelper"><strong>Explore a documentação original »</strong> </a>
   
-  </p>
-</p>
-    
+   <div align="center">
+  <a href="#ROADMAP" ><strong>Explore a documentação do 4noobs » </strong> </a>
+ 
+   <a href="https://github.com/mavinsi/mybothelper"><strong>Explore a documentação original » </strong> </a>
+  
+  </div>
+  
+
  <!-- ABOUT THE PROJECT -->
 
 ## Sobre o Projeto
