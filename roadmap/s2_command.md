@@ -37,7 +37,7 @@ module.exports = {
 };
 ```
 
-se tudo estiver certo nos teremos o seguindo resultado no terminal:
+se tudo estiver certo nós teremos o seguindo resultado no terminal:
 
 
 ```bash
