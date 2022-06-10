@@ -41,7 +41,7 @@ BOT_TOKEN="1234dawdawd5678dawdawdaw912345dawdawd6789"
 [MBH] Teste online
 ```
 <p align="center">
-  <a href="https://github.com/mavinsi/mybothelper4noobs/blob/main/roadmap/s_command.md">
+  <a href="https://github.com/mavinsi/mybothelper4noobs/blob/main/roadmap/s1_command.md">
     <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
   </a>
 </p>
