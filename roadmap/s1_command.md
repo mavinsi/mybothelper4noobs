@@ -1,3 +1,4 @@
+
 # 🧾 Como um comando é estruturado?
 Antes de aprendermos a criar um comando, vamos entender a sua estruturação, abaixo temos um comando simples que ao bot receber a mensagem ``hello`` ele ira responde-la com ``hello world``
 
@@ -65,7 +66,10 @@ ola dev!
 E pronto parabéns você acabou de desenvolver seu primeiro comando para o MyBotHelper
 
 <hr>
-
-<h1 align="center">🎉 Por enquanto nossa aventura termina aqui, mas logo logo receberemos mais tutorias e documentação, muito obrigado por experimentar!🎉</h1>
+<p align="center">
+  <a href="https://github.com/mavinsi/mybothelper4noobs/blob/main/roadmap/s2_command.md">
+    <img src="https://cdn.discordapp.com/attachments/539836343094870016/863605863049461780/proximo.png" height=35>
+  </a>
+</p>
 
 
